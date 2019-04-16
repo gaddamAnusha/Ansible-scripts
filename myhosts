@@ -1,0 +1,2 @@
+[group1]
+ansible_targetmachine ansible_ssh_user=ansible

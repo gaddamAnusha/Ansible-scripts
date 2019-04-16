@@ -1,0 +1,2 @@
+to execute termination.yml => ansible-playbook termination.yml
+ to execute ansible-playbook.yml => ansible-playbook -i hosts ansible-playbook.yml
